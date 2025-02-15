@@ -1,0 +1,7 @@
+[
+    {"id": 1, "nombreSuperheroe": "Spider-Man", "nombreReal": "Peter Parker", "nombreSociedad": "Vigilante", "edad": 25, "planetaOrigen": "Tierra", "debilidad": "Radioactiva", "poder": ["Trepar paredes", "Sentido arácnido", "Super fuerza", "Agilidad"], "habilidadEspecial": "Redes de telaraña", "aliado": "Ironman", "enemigo": ["Duende Verde"]},
+    
+    {"id": 2, "nombreSuperheroe": "Batman", "nombreReal": "Bruce Wayne", "nombreSociedad": "Criminal", "edad": 35, "planetaOrigen": "Tierra", "debilidad": "Hiperventilación", "poder": ["Super fuerza", "Super velocidad", "Visión nocturna", "Poder de las estrellas"], "habilidadEspecial": "Super poder", "aliado": "Joker", "enemigo": ["El Zorro", "El Hulk"]},
+    
+    {"id": 3, "nombreSuperheroe": "Ironman", "nombreReal": "Tony Stark", "nombreSociedad": "Espía", "edad": 45, "planetaOrigen": "Tierra", "debilidad": "Hiperventilación", "poder": ["Super fuerza", "Super velocidad", "Visión nocturna", "Poder de las estrellas"], "habilidadEspecial": "Super poder", "aliado": "Spider-Man", "enemigo": ["El Hulk", "El Zorro"]},
+]
