@@ -1,0 +1,23 @@
+{
+  "name": "actividad-n2",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "lourdesBazan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lourdesBazan/Modulo3-Diplomatura.git"
+  },
+  "bugs":{
+    "url":"https://github.com/lourdesBazan/Modulo3-Diplomatura/issues"
+  },
+  "homepage": "https://github.com/lourdesBazan/Modulo3-Diplomatura#readme"
+}
