@@ -1,0 +1,7 @@
+[
+    {"id": 4, "nombreSuperheroe": "Superman", "nombreReal": "Clark Kent", "nombreSociedad": "Espía", "edad": 45, "planetaOrigen": "Tierra", "debilidad": "Hiperventilación", "poder": ["Super fuerza", "Super velocidad", "Visión nocturna", "Poder de las estrellas"], "habilidadEspecial": "Super poder", "aliado": "Spider-Man", "enemigo": ["El Hulk", "El Zorro"]},
+
+    {"id": 5, "nombreSuperheroe": "Wolverine", "nombreReal": "James Howlett", "nombreSociedad": "Espía", "edad": 45, "planetaOrigen": "Tierra", "debilidad": "Hiperventilación", "poder": ["Super fuerza", "Super velocidad", "Visión nocturna", "Poder de las estrellas"], "habilidadEspecial": "Super poder", "aliado": "Spider-Man", "enemigo": ["El Hulk", "El Zorro"]},
+
+    {"id": 6, "nombreSuperheroe": "Captain America", "nombreReal": "Steve Rogers", "nombreSociedad": "Espía", "edad": 45, "planetaOrigen": "Tierra", "debilidad": "Hiperventilación", "poder": ["Super fuerza", "Super velocidad", "Visión nocturna", "Poder de las estrellas"], "habilidadEspecial": "Super poder", "aliado": "Spider-Man", "enemigo": ["El Hulk", "El Zorro"]}
+]
