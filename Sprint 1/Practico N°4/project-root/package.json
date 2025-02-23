@@ -1,0 +1,23 @@
+{
+  "name": "practico-n4",
+  "version": "1.0.0",
+  "description": "Proyecto Final - Sprint N°1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lourdesBazan/Modulo3-Diplomatura.git"
+  },
+  "author": "Equipo N°9 - Bazan Cisneros Lourdes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "bugs":{
+    "url": "https://github.com/lourdesBazan/Modulo3-Diplomatura/issues"
+  },
+  "homepage": "https://github.com/lourdesBazan/Modulo3-Diplomatura#readme",
+  "type": "module"
+}
